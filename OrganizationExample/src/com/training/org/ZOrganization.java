@@ -6,7 +6,7 @@ public class ZOrganization {
          Employee e1=new Employee();
         // e1.showEmployeeDetails();
         System.out.println(e1);
-
+        System.out.println("HEllo");
          Employee e2=new Employee(101,"EShan",10000);
          //e2.showEmployeeDetails();
         //e2.getSalary();
